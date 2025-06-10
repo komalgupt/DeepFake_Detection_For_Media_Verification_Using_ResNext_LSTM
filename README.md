@@ -28,6 +28,7 @@ We used the **Deepfake Detection Challenge Dataset (DFDC)** provided by Facebook
 
 📥 Download:  
 - [DFDC Dataset on Kaggle](https://www.kaggle.com/datasets/c/dfdc-deepfake-detection-challenge)
+
 **Note:** Due to its large size, only a subset (real + fake videos) was used during training. Face frames were extracted and saved using a custom face extraction pipeline.
 📈 Results
 Metric	Value
